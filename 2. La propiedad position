@@ -1,0 +1,17 @@
+La propiedad position
+Valores que puede tomar son:
+
+static
+Es el posicionamiento normal y no usa las propiedades de posicionamiento.
+
+fixed
+Es relativo a la ventana del navegador.
+
+relative
+Es relativo a la posición normal del elemento.
+
+absolute
+Es relativo a la posición de su ancestro más inmediato que no tenga posicionamiento static.
+
+sticky
+Usa posicionamiento relative mientras el elemento está en el área visible de la ventana y se vuelve fixed cuando sale del área visible de la ventana.

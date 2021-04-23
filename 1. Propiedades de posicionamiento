@@ -1,0 +1,21 @@
+Propiedades de posicionamiento
+top
+Posición de la parte superior del elemento con respecto a la posición original (posicionamiento relative) o al elemento contenedor.
+
+bottom
+Posición de la parte inferior del elemento con respecto a la posición original (posicionamiento relative) o al elemento contenedor.
+
+left
+Posición de la parte izquierda del elemento con respecto a la posición original (posicionamiento relative) o al elemento contenedor.
+
+right
+Posición de la parte izquierda del elemento con respecto a la posición original (posicionamiento relative) o al elemento contenedor.
+
+width
+Ancho de un elemento. Se indica usando un número decimal, opcionalmente fraccionario, seguido de la unidad.
+
+height
+Altura de un elemento. Se indica usando un número decimal, opcionalmente fraccionario, seguido de la unidad.
+
+z-index
+Los elementos se pueden colocar en capas y ocultarse unos a otros. Un elemento se coloca sobre los elementos hermanos con posicionamiento no static que aparecen antes en el texto. La propiedad z-index se usa para cambiar ese orden. El número z-index más grande está arriba y tapa a todos los que tienen un valor menor. Empieza desde 1.
